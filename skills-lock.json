@@ -1,6 +1,13 @@
 {
   "version": 2,
   "skills": {
+    "higgsfield": {
+      "source": "robonuggets/higgsfield-skill",
+      "commit": "4a97a1e6bc0f29e15fe28a231f439d242d0dacd9",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/higgsfield/SKILL.md",
+      "computedHash": "2ffee26f6edd0e99c7f963fa7ead51b6046149827b5899782dfe8d97fc16f783"
+    },
     "higgsfield-brandkit": {
       "source": "higgsfield-ai/skills",
       "commit": "27000402070db19d958789d05b3b52b6f4718d7c",
